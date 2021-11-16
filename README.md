@@ -22,3 +22,6 @@
 		If it doesnt work on your computer, try to take another pics, save in <font color="gray"> bmp </font>and replace the original.
 	</li>
 </ul>
+
+It will be like this 
+<video src ="media/test_skip_youtube_ads.mp4">
