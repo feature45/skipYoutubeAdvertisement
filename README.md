@@ -18,6 +18,6 @@
 		Description: Test the UDF
 	</li>
 	<li>
-		If it doesnt work on your computer, try to take another pics, save in <font color="grey"> bmp </font>and replace the original.
+		If it doesnt work on your computer, try to take another pics, save in <font color="gray"> bmp </font>and replace the original.
 	</li>
 </ul>
