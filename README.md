@@ -1,8 +1,9 @@
-# skipYoutubeAdvertisement
 
+<font color = "orange">
 <h1>
 	skip youtube advertisement
 </h1>
+</font>
 <hr>
 <ul>
 	<li>
