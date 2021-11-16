@@ -24,4 +24,4 @@
 </ul>
 
 It will be like this 
-<video src ="https://github.com/feature45/media/blob/huuloc/test_skip_youtube_ads.mp4?raw=true" controls>
+https://github.com/feature45/media/blob/huuloc/test_skip_youtube_ads.mp4
