@@ -11,7 +11,7 @@
 	</li>
 	<li>
 		Thanks 
-		<a href="https://trong.live">
+		<a href="https://trong.live" target = "_blank">
 			Đào Văn Trọng
 		</a> for the UDF
 	</li>
