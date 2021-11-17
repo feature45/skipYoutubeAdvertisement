@@ -25,4 +25,4 @@
 
 <font color = "Blue" size = "+3">It will be like this, if you want it faster, just fix the /mouseclick/ function </font>
 <br><br>
-<img src = "https://raw.githubusercontent.com/feature45/media/huuloc/skip_ytb_ads.gif?token=AVZSEJLKZ6WLJTCKIJXUA6TBSPULU">
+<img src = "https://raw.githubusercontent.com/maoleng/media/huuloc/skip_ytb_ads.gif?token=AVZSEJLKZ6WLJTCKIJXUA6TBSPULU">
